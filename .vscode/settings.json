@@ -1,0 +1,9 @@
+{
+  "editor.hover.enabled": true,
+  "editor.parameterHints.enabled": false,
+  "editor.quickSuggestions": {
+    "other": false,
+    "comments": false,
+    "strings": false
+  }
+}
