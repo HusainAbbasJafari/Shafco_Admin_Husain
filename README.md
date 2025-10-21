@@ -1,7 +1,5 @@
 # 🛍️ Shafco Admin Panel
 
-(./public/ShafcoAdminHome.png)
-
 A modern, full-featured e-commerce admin dashboard for Shafco's modest fashion platform. Built with Next.js 14+, this comprehensive admin panel provides powerful tools for managing products, orders, customers, and analytics.
 
 
